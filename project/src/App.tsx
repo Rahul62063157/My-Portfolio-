@@ -15,7 +15,7 @@ function App() {
               className="w-32 h-32 rounded-full border-4 border-white shadow-xl mb-6"
             />
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Rahul Kumar</h1>
-            <h2 className="text-xl md:text-2xl mb-6">Python Developer & Problem Solver</h2>
+            <h2 className="text-xl md:text-2xl mb-6">Software Developer</h2>
             <div className="flex flex-wrap justify-center gap-4 mb-6">
               <div className="flex items-center gap-2 text-sm">
                 <MapPin className="w-4 h-4" />
